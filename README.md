@@ -990,7 +990,7 @@ plt.show()
 
 
     
-![Basic Network](Basic_Network.png)
+![Basic Network](Basic_Network.jpg)
     
 
 
