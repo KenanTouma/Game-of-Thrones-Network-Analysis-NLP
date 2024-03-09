@@ -1,6 +1,6 @@
 # Game of Thrones NLP-Neural Network Project
 
-![Game_of_Thrones.jpg](attachment:db646559-59e4-4486-9dc3-fd9b500ea839.jpg)
+![Game_of_Thrones Image](Game_of_Thrones.jpg)
 
 ## Table of Content
 
@@ -990,7 +990,7 @@ plt.show()
 
 
     
-![png](output_35_0.png)
+![Basic Network](Basic_Network.png)
     
 
 
@@ -1050,7 +1050,7 @@ degree_df.sort_values('centrality', ascending = False)[0:9].plot(kind = "bar")
 
 
     
-![png](output_37_1.png)
+![Degree Centrality](Degree_Centrality.png)
     
 
 
@@ -1072,7 +1072,7 @@ degree_df.sort_values('centrality', ascending = False)[0:9].plot(kind = "bar")
 
 
     
-![png](output_38_1.png)
+![Betweenness Centrality](Betweenness_Centrality.png)
     
 
 
@@ -1094,7 +1094,7 @@ degree_df.sort_values('centrality', ascending = False)[0:9].plot(kind = "bar")
 
 
     
-![png](output_39_1.png)
+![Closeness Centrality](Closeness_Centrality.png)
     
 
 
