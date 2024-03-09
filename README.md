@@ -1012,7 +1012,7 @@ net.show("GoT.html")
 
     Warning: When  cdn_resources is 'local' jupyter notebook has issues displaying graphics on chrome/safari. Use cdn_resources='in_line' or cdn_resources='remote' if you have issues viewing graphics in a notebook.
     GoT.html
-    
+![Network GIF](images/Network_gif.gif)
 
 
 
@@ -1130,7 +1130,7 @@ com_net.show("GoT_communities.html")
     Warning: When  cdn_resources is 'local' jupyter notebook has issues displaying graphics on chrome/safari. Use cdn_resources='in_line' or cdn_resources='remote' if you have issues viewing graphics in a notebook.
     GoT_communities.html
     
-
+![Network Communities Gif](images/Network_Communities_gif.gif)
 
 
 
